@@ -18,4 +18,4 @@
 Difficultés :
 - L'UI du joueur apparaissait sur l'écran titre et j'ai pas trouvé d'autre solution que de mettre un tick qui dit que si l'UI du joueur existe et qu'il est visible, tu le caches. C'est pas opti mais c'est la seule solution que j'ai trouvé
 
-- J'ai essayé de faire en sorte que quand un objet est proche de la caméra, il devient transparent. J'ai réussi ça mais le Hit du click reste sur l'objet devant la caméra donc ça empêche le joueur de bouger. Donc j'ai fait une box qui change la caméra quand elle détecte le joueur
+- J'ai essayé de faire en sorte que quand un objet est proche de la caméra, il devient transparent. J'ai réussi ça mais le Hit du click reste sur l'objet devant la caméra donc ça empêche le joueur de bouger. Donc j'ai fait une box qui change la caméra quand elle détecte le joueur pour faciliter les déplacements
